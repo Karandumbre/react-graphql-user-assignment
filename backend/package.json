@@ -1,0 +1,17 @@
+{
+  "name": "graphql-server",
+  "version": "1.0.0",
+  "description": "A simple GraphQL server using Apollo Server and Express",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --env-file .env server.js"
+  },
+  "dependencies": {
+    "apollo-server-express": "^3.6.3",
+    "axios": "^1.7.2",
+    "express": "^4.17.3",
+    "graphql": "^15.5.1"
+  },
+  "author": "",
+  "license": "ISC"
+}
