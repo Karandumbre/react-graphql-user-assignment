@@ -102,3 +102,6 @@ The project relies on the following major dependencies:
 This project is licensed under the MIT License.
 
 ## Screenshot
+
+[![Watch the video](https://raw.githubusercontent.com/Karandumbre/react-graphql-user-assignment/master/demo.jpg)](https://raw.githubusercontent.com/Karandumbre/react-graphql-user-assignment/master/demo.mp4)
+
